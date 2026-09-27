@@ -10,7 +10,7 @@ The linked GitHub repository (`jashmon/pureglow`) was empty when checked, so it 
 - Disclosed that contact, newsletter, checkout, order, shipping, and returns are not connected or active.
 - Corrected the homepage product image description and call to action.
 - Converted product imagery to resized WebP assets, reducing the five image files from about 10.5 MB total to about 0.7 MB.
-- Added the supplied GA4 measurement ID `G-9BY5HRZKW2` and connected the existing product/cart interactions to GA4 events. Google Ads conversion tracking remains unset until an Ads conversion ID and real checkout are available.
+- Kept Google Ads tracking disabled until a real `AW-` ID is supplied.
 - Fixed a stray comma in the product catalog JavaScript that prevented the module from parsing.
 
 ## Run locally
